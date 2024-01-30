@@ -1,7 +1,8 @@
-![image](https://github.com/slashhsu/R-visualisation-food-accessibility/assets/137000188/4c4eafa0-7f0f-4869-97c1-76a805c82c3b)# R-visualisation-food-accessibility
+# R-visualisation-food-accessibility
 
-The food priority dataset for this research has been provided by the Consumer Data Research Centre (CDRC), an ESRC Data Investment. Funding references ES/L011840/1; ES/L011891/1. 
+# The food priority dataset for this research has been provided by the Consumer Data Research Centre (CDRC), an ESRC Data Investment. Funding references ES/L011840/1; ES/L011891/1. 
 
+![image](https://github.com/slashhsu/R-visualisation-food-accessibility/assets/137000188/4c4eafa0-7f0f-4869-97c1-76a805c82c3b)
 ![image](https://github.com/slashhsu/R-visualisation-food-accessibility/assets/137000188/470cf13e-79b5-46e2-bce4-67fc969c316a)
 ![image](https://github.com/slashhsu/R-visualisation-food-accessibility/assets/137000188/9f7ee47a-45e4-435d-abcf-626353334364)
 ![image](https://github.com/slashhsu/R-visualisation-food-accessibility/assets/137000188/153837ec-4b57-40f2-8c56-7232acc812f9)
