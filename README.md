@@ -3,7 +3,6 @@
 ## Overview
 This project examines how deprived areas and population density affect food accessibility in the UK. Using data visualisation and statistical analysis, we explore the relationship between food availability, poverty levels, and population distribution to identify key areas for policy intervention.
 
-![Food Priority Map](https://github.com/your-repo/food-accessibility-analysis/assets/food_priority_map.png)
 
 ---
 
