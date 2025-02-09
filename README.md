@@ -25,18 +25,23 @@ This project examines how deprived areas and population density affect food acce
 - **Red zones** indicate the highest food priority areas, mostly in **coastal and rural regions**.
 - **Urban centres, such as London, have high food sufficiency**, highlighting the rural-urban divide.
 
-![Population Density vs. Food Priority](https://github.com/your-repo/food-accessibility-analysis/assets/population_density_chart.png)
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/344bcdf6-97f2-49bf-8a77-5363f6a9ebea" />
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/9edc7ee7-4f03-4e2c-86f1-eb25085caa28" />
+
+
 
 ### Poverty vs. Food Accessibility
 - **High-poverty regions correlate with high food priority needs.**
 - **England has more food-secure regions**, whereas **Scotland, Wales, and Northern Ireland face greater food insecurity**.
 
-![Poverty and Food Priority](https://github.com/your-repo/food-accessibility-analysis/assets/poverty_food_chart.png)
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/a70bb66b-2d24-4bc9-a230-c4d5a7b3a171" />
+
 
 ### Average Food Priority by Country
 - **England has the highest level of food provision**, while the other three countries lag significantly.
 
-![Food Priority by Country](https://github.com/your-repo/food-accessibility-analysis/assets/food_priority_country_chart.png)
+<img width="841" alt="image" src="https://github.com/user-attachments/assets/d3b4404a-a3f3-47e7-af78-0e96ca541c92" />
+
 
 ---
 
